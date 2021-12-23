@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Ravi8921/Ravi8921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 README.md
 - 🔭 I’m @Ravi kant...
 - 🌱 I’m currently learning cloud computing and storage...
